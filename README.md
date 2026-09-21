@@ -33,6 +33,24 @@ curl http://localhost
 sudo firewall-cmd --permanent --add-service=http
 sudo firewall-cmd --reload
 ```
+## Project Steps
+
+### Step 1: Verify Nginx Service
+
+![Nginx Service Status](nginx-status.png)
+
+Verified that the Nginx service is active and running on RHEL using `systemctl`.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Screenshot
 ![Nginx Web Server](nginx-website.png)
