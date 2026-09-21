@@ -47,6 +47,12 @@ Verified that the Nginx service is active and running on RHEL using `systemctl`.
 
 Verified the Nginx configuration syntax using `nginx -t` before running the web server.
 
+## Step 4: Configure Firewall for HTTP
+
+Allowed HTTP traffic through the RHEL firewall using `firewall-cmd`.
+
+![Nginx Firewall Configuration](nginx-firewall-configuration.png)
+
 
 
 
