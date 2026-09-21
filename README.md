@@ -32,6 +32,7 @@ sudo nginx -t
 curl http://localhost
 sudo firewall-cmd --permanent --add-service=http
 sudo firewall-cmd --reload
+```
 
 ## Screenshot
 ![Nginx Web Server](nginx-website.png)
