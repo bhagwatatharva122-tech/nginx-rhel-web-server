@@ -62,12 +62,3 @@ Accessed the Nginx web server from a Windows browser using the RHEL server IP ad
 
 
 
-
-
-
-
-
-
-## Screenshot
-![Nginx Web Server](nginx-website.png)
-
