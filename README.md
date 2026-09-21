@@ -34,5 +34,5 @@ sudo firewall-cmd --permanent --add-service=http
 sudo firewall-cmd --reload
 
 ## Screenshot
-![Nginx Web Server](nginx-webpage.png)
+![Nginx Web Server](nginx-website.png)
 
