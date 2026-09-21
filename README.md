@@ -41,6 +41,14 @@ sudo firewall-cmd --reload
 
 Verified that the Nginx service is active and running on RHEL using `systemctl`.
 
+### Step 2: Verify Nginx Configuration
+
+![Nginx Configuration Test](nginx-test.png)
+
+Verified the Nginx configuration syntax using `nginx -t` before running the web server.
+
+
+
 
 
 
