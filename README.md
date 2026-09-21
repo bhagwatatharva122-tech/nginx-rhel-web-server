@@ -60,5 +60,7 @@ Accessed the Nginx web server from a Windows browser using the RHEL server IP ad
 
 ![Nginx Web Server](nginx-website.png)
 
+## Step 6: Test Nginx Using curl
 
-
+Tested the Nginx web server locally using curl and verified a successful HTTP 200 OK response.
+![Nginx curl Test](nginx-curl-test.png)
