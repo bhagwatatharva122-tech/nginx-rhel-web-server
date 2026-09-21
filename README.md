@@ -54,7 +54,11 @@ Allowed HTTP traffic through the RHEL firewall using `firewall-cmd`.
 ![Nginx Firewall Configuration](nginx-firewall-configuration.png)
 
 
+## Step 5: Access Nginx Web Server
 
+Accessed the Nginx web server from a Windows browser using the RHEL server IP address.
+
+![Nginx Web Server](nginx-website.png)
 
 
 
